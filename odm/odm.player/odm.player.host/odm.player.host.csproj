@@ -27,14 +27,12 @@
     <UseApplicationTrust>false</UseApplicationTrust>
     <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
-  
   <PropertyGroup Condition="'$(Platform)' == 'x86' ">
     <PlatformTarget>x86</PlatformTarget>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Platform)' == 'x64' ">
     <PlatformTarget>x64</PlatformTarget>
   </PropertyGroup>
-
   <PropertyGroup>
     <OutputPath>bin\$(Platform)\$(Configuration)\</OutputPath>
     <DebugSymbols Condition="'$(Configuration)' == 'Debug'">true</DebugSymbols>
@@ -51,6 +49,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="odm.player.net">
+      <HintPath>..\..\..\libsAdded\odm.player.net.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml" />
@@ -114,10 +115,6 @@
     <ProjectReference Include="..\odm.player.media\odm.player.media.csproj">
       <Project>{5EE86409-3EA7-482A-8702-6DCA0D3BC4B1}</Project>
       <Name>odm.player.media</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\odm.player.net\odm.player.net.vcxproj">
-      <Project>{D3EEB24E-79A7-48B3-8D58-EDBABB68CF0A}</Project>
-      <Name>odm.player.net</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
