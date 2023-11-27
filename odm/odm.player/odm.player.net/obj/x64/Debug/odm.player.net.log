@@ -1,0 +1,7 @@
+﻿  libapi.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\odm\odm.player\odm.player.net\libapi.cpp : error C1192: #using failed on 'C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\odm\odm.player\odm.player.media\bin\Debug\Net40\odm.player.media.dll'
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\odm\odm.player\odm.player.net\libapi.cpp : error C1192:         'The system cannot find the file specified.'
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\odm\odm.player\odm.player.net\obj\x64\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cpp : error C1192: #using failed on 'C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\odm\odm.player\odm.player.media\bin\Debug\Net40\odm.player.media.dll'
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\odm\odm.player\odm.player.net\obj\x64\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cpp : error C1192:         'The system cannot find the file specified.'
+  Generating Code...

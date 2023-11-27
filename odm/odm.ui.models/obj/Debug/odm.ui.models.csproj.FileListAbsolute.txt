@@ -1,0 +1,2 @@
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\odm\odm.ui.models\obj\Debug\odm.ui.models.csproj.AssemblyReference.cache
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\odm\odm.ui.models\obj\Debug\odm.ui.models.csproj.CoreCompileInputs.cache

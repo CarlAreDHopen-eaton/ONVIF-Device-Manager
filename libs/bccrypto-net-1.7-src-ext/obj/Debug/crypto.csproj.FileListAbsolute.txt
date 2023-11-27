@@ -1,0 +1,7 @@
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\bccrypto-net-1.7-src-ext\bin\Debug\crypto.dll
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\bccrypto-net-1.7-src-ext\bin\Debug\crypto.pdb
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\bccrypto-net-1.7-src-ext\bin\Debug\crypto.xml
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\bccrypto-net-1.7-src-ext\obj\Debug\crypto.csproj.AssemblyReference.cache
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\bccrypto-net-1.7-src-ext\obj\Debug\crypto.csproj.CoreCompileInputs.cache
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\bccrypto-net-1.7-src-ext\obj\Debug\crypto.dll
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\bccrypto-net-1.7-src-ext\obj\Debug\crypto.pdb

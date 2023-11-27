@@ -1,0 +1,90 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  MetadataCollector.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\ffmpeg-git-a5c1a0c\include\libavutil\common.h(130,27): warning C4244: 'return': conversion from 'int' to 'uint8_t', possible loss of data
+  (compiling source file '../odm.player/odm.player.lib/MetadataCollector.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\ffmpeg-git-a5c1a0c\include\libavutil\common.h(141,34): warning C4244: 'return': conversion from 'int' to 'int8_t', possible loss of data
+  (compiling source file '../odm.player/odm.player.lib/MetadataCollector.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\ffmpeg-git-a5c1a0c\include\libavutil\common.h(152,29): warning C4244: 'return': conversion from 'int' to 'uint16_t', possible loss of data
+  (compiling source file '../odm.player/odm.player.lib/MetadataCollector.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\ffmpeg-git-a5c1a0c\include\libavutil\common.h(163,38): warning C4244: 'return': conversion from 'int' to 'int16_t', possible loss of data
+  (compiling source file '../odm.player/odm.player.lib/MetadataCollector.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\odm\odm.player\odm.player.lib\include\odm.player.lib\VirtualSink.hpp(77,1): warning C4091: 'typedef ': ignored on left of 'onvifmp::VirtualSink::continuePlaying::proxy' when no variable is declared
+  (compiling source file '../odm.player/odm.player.lib/MetadataCollector.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\odm\odm.player\odm.player.lib\include\odm.player.lib\VirtualSink.hpp(86,63): warning C4100: 'truncatedBytesCount': unreferenced formal parameter
+  (compiling source file '../odm.player/odm.player.lib/MetadataCollector.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\odm\odm.player\odm.player.lib\MetadataCollector.cpp(26,44): warning C4458: declaration of 'sink' hides class member
+  C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\odm\odm.player\odm.player.lib\include\odm.player.lib\MetadataCollector.hpp(27,16):
+  see declaration of 'onvifmp::MetadataCollector::sink'
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\odm\odm.player\odm.player.lib\MetadataCollector.cpp(42,66): warning C4458: declaration of 'listener' hides class member
+  C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\odm\odm.player\odm.player.lib\include\odm.player.lib\MetadataCollector.hpp(26,12):
+  see declaration of 'onvifmp::MetadataCollector::listener'
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\odm\odm.player\odm.player.lib\MetadataCollector.cpp(46,121): warning C4100: 'duration': unreferenced formal parameter
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\odm\odm.player\odm.player.lib\MetadataCollector.cpp(46,94): warning C4100: 'presentationTime': unreferenced formal parameter
+  Live555.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\ffmpeg-git-a5c1a0c\include\libavutil\common.h(130,27): warning C4244: 'return': conversion from 'int' to 'uint8_t', possible loss of data
+  (compiling source file '../odm.player/odm.player.lib/Live555.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\ffmpeg-git-a5c1a0c\include\libavutil\common.h(141,34): warning C4244: 'return': conversion from 'int' to 'int8_t', possible loss of data
+  (compiling source file '../odm.player/odm.player.lib/Live555.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\ffmpeg-git-a5c1a0c\include\libavutil\common.h(152,29): warning C4244: 'return': conversion from 'int' to 'uint16_t', possible loss of data
+  (compiling source file '../odm.player/odm.player.lib/Live555.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\ffmpeg-git-a5c1a0c\include\libavutil\common.h(163,38): warning C4244: 'return': conversion from 'int' to 'int16_t', possible loss of data
+  (compiling source file '../odm.player/odm.player.lib/Live555.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\odm\odm.player\odm.player.lib\include\odm.player.lib\VirtualSink.hpp(77,1): warning C4091: 'typedef ': ignored on left of 'onvifmp::VirtualSink::continuePlaying::proxy' when no variable is declared
+  (compiling source file '../odm.player/odm.player.lib/Live555.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\odm\odm.player\odm.player.lib\include\odm.player.lib\VirtualSink.hpp(86,63): warning C4100: 'truncatedBytesCount': unreferenced formal parameter
+  (compiling source file '../odm.player/odm.player.lib/Live555.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\odm\odm.player\odm.player.lib\include\odm.player.lib\H264VirtualSink.hpp(49,63): warning C4100: 'truncatedBytesCount': unreferenced formal parameter
+  (compiling source file '../odm.player/odm.player.lib/Live555.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\odm\odm.player\odm.player.lib\include\odm.player.lib\VideoDecoder.hpp(39,41): warning C4458: declaration of 'avCodec' hides class member
+  (compiling source file '../odm.player/odm.player.lib/Live555.cpp')
+  C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\odm\odm.player\odm.player.lib\include\odm.player.lib\VideoDecoder.hpp(117,12):
+  see declaration of 'onvifmp::VideoDecoder::avCodec'
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\odm\odm.player\odm.player.lib\include\odm.player.lib\VideoDecoder.hpp(39,26): warning C4100: 'sink': unreferenced formal parameter
+  (compiling source file '../odm.player/odm.player.lib/Live555.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\odm\odm.player\odm.player.lib\include\odm.player.lib\VideoDecoder.hpp(135,111): warning C4100: 'duration': unreferenced formal parameter
+  (compiling source file '../odm.player/odm.player.lib/Live555.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\odm\odm.player\odm.player.lib\include\odm.player.lib\VideoDecoder.hpp(135,84): warning C4100: 'presentationTime': unreferenced formal parameter
+  (compiling source file '../odm.player/odm.player.lib/Live555.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\odm\odm.player\odm.player.lib\include\odm.player.lib\VideoRenderer.hpp(15,1): warning C4100: 'decoder': unreferenced formal parameter
+  (compiling source file '../odm.player/odm.player.lib/Live555.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\odm\odm.player\odm.player.lib\Live555.cpp(27,55): warning C4458: declaration of 'videoBuffer' hides class member
+  C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\odm\odm.player\odm.player.lib\include\odm.player.lib\Live555.hpp(48,27):
+  see declaration of 'onvifmp::Live555::videoBuffer'
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\odm\odm.player\odm.player.lib\Live555.cpp(31,62): warning C4458: declaration of 'metadataListener' hides class member
+  C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\odm\odm.player\odm.player.lib\include\odm.player.lib\Live555.hpp(49,31):
+  see declaration of 'onvifmp::Live555::metadataListener'
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\odm\odm.player\odm.player.lib\Live555.cpp(45,31): warning C4311: 'type cast': pointer truncation from 'HANDLE' to 'long'
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\odm\odm.player\odm.player.lib\Live555.cpp(45,31): warning C4302: 'type cast': truncation from 'HANDLE' to 'long'
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\odm\odm.player\odm.player.lib\Live555.cpp(46,31): warning C4311: 'type cast': pointer truncation from 'HANDLE' to 'long'
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\odm\odm.player\odm.player.lib\Live555.cpp(46,31): warning C4302: 'type cast': truncation from 'HANDLE' to 'long'
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\odm\odm.player\odm.player.lib\Live555.cpp(47,30): warning C4311: 'type cast': pointer truncation from 'HANDLE' to 'long'
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\odm\odm.player\odm.player.lib\Live555.cpp(47,30): warning C4302: 'type cast': truncation from 'HANDLE' to 'long'
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\odm\odm.player\odm.player.lib\Live555.cpp(61,13): error C2027: use of undefined type 'std::basic_ios<char,std::char_traits<char>>'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\iosfwd(234,35):
+  see declaration of 'std::basic_ios<char,std::char_traits<char>>'
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\odm\odm.player\odm.player.lib\Live555.cpp(61,13): error C3861: 'sync_with_stdio': identifier not found
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\odm\odm.player\odm.player.lib\Live555.cpp(227,115): warning C4244: 'argument': conversion from 'unsigned int' to 'portNumBits', possible loss of data
+  Generating Code...

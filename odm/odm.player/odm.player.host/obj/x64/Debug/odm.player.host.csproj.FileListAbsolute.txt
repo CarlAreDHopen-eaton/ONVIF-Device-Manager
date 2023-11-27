@@ -1,0 +1,2 @@
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\odm\odm.player\odm.player.host\obj\x64\Debug\odm.player.host.csproj.AssemblyReference.cache
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\odm\odm.player\odm.player.host\obj\x64\Debug\odm.player.host.csproj.CoreCompileInputs.cache

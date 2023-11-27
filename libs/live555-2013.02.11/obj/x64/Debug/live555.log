@@ -1,0 +1,703 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  UsageEnvironment.cpp
+  strDup.cpp
+  HashTable.cpp
+  WAVAudioFileSource.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\WAVAudioFileSource.cpp(96,19): warning C4244: '=': conversion from 'int' to 'u_int16_t', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\WAVAudioFileSource.cpp(273,25): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  WAVAudioFileServerMediaSubsession.cpp
+  VP8VideoRTPSource.cpp
+  VP8VideoRTPSink.cpp
+  VP8VideoMatroskaFileServerMediaSubsession.cpp
+  VorbisAudioRTPSource.cpp
+  VorbisAudioRTPSink.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\VorbisAudioRTPSink.cpp(70,16): warning C4244: '=': conversion from 'u_int32_t' to 'u_int8_t', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\VorbisAudioRTPSink.cpp(70,35): warning C4244: '=': conversion from 'u_int32_t' to 'u_int8_t', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\VorbisAudioRTPSink.cpp(70,47): warning C4244: '=': conversion from 'u_int32_t' to 'u_int8_t', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\VorbisAudioRTPSink.cpp(71,16): warning C4244: '=': conversion from 'unsigned int' to 'u_int8_t', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\VorbisAudioRTPSink.cpp(71,28): warning C4244: '=': conversion from 'unsigned int' to 'u_int8_t', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\VorbisAudioRTPSink.cpp(72,20): warning C4244: '=': conversion from 'unsigned int' to 'u_int8_t', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\VorbisAudioRTPSink.cpp(80,18): warning C4244: '=': conversion from 'unsigned int' to 'u_int8_t', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\VorbisAudioRTPSink.cpp(91,13): warning C4244: '=': conversion from 'unsigned int' to 'u_int8_t', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\VorbisAudioRTPSink.cpp(105,31): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\VorbisAudioRTPSink.cpp(170,12): warning C4244: '-=': conversion from 'unsigned int' to 'u_int16_t', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\VorbisAudioRTPSink.cpp(229,21): warning C4244: '=': conversion from 'u_int32_t' to 'u_int8_t', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\VorbisAudioRTPSink.cpp(229,45): warning C4244: '=': conversion from 'u_int32_t' to 'u_int8_t', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\VorbisAudioRTPSink.cpp(229,62): warning C4244: '=': conversion from 'u_int32_t' to 'u_int8_t', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\VorbisAudioRTPSink.cpp(247,20): warning C4244: 'initializing': conversion from 'unsigned int' to 'u_int8_t', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\VorbisAudioRTPSink.cpp(254,43): warning C4244: '=': conversion from 'unsigned int' to 'u_int8_t', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\VorbisAudioRTPSink.cpp(255,28): warning C4244: '=': conversion from 'unsigned int' to 'u_int8_t', possible loss of data
+  VorbisAudioMatroskaFileServerMediaSubsession.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\VorbisAudioMatroskaFileServerMediaSubsession.cpp(113,14): warning C4456: declaration of 'p' hides previous local declaration
+  C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\VorbisAudioMatroskaFileServerMediaSubsession.cpp(46,15):
+  see declaration of 'p'
+  
+  VideoRTPSink.cpp
+  uLawAudioFilter.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\uLawAudioFilter.cpp(97,26): warning C4244: 'initializing': conversion from 'const int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\uLawAudioFilter.cpp(196,20): warning C4244: 'initializing': conversion from 'int' to 'u_int16_t', possible loss of data
+  TextRTPSink.cpp
+  TCPStreamSink.cpp
+  T140TextRTPSink.cpp
+  T140TextMatroskaFileServerMediaSubsession.cpp
+  StreamReplicator.cpp
+  StreamParser.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\StreamParser.hh(77,31): warning C4100: 'numBytes': unreferenced formal parameter
+  (compiling source file '../live555-2013.02.11/liveMedia/StreamParser.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\StreamParser.cpp(70,31): warning C4244: '-=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\StreamParser.cpp(78,50): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\StreamParser.cpp(86,31): warning C4244: '-=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\StreamParser.cpp(109,50): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+  SIPClient.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\SIPClient.cpp(56,28): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\SIPClient.cpp(60,32): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\SIPClient.cpp(65,30): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\SIPClient.cpp(111,47): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\SIPClient.cpp(115,35): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\SIPClient.cpp(136,25): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\SIPClient.cpp(183,20): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\SIPClient.cpp(207,30): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\SIPClient.cpp(212,30): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\SIPClient.cpp(226,31): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\SIPClient.cpp(240,28): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\SIPClient.cpp(257,28): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\SIPClient.cpp(282,28): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\SIPClient.cpp(529,24): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\SIPClient.cpp(555,29): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\SIPClient.cpp(611,25): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\SIPClient.cpp(648,22): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\SIPClient.cpp(664,33): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\SIPClient.cpp(690,22): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\SIPClient.cpp(706,33): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\SIPClient.cpp(865,26): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Compiling...
+  SimpleRTPSource.cpp
+  SimpleRTPSink.cpp
+  ServerMediaSession.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\ServerMediaSession.cpp(206,29): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\ServerMediaSession.cpp(214,85): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\ServerMediaSession.cpp(214,40): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\ServerMediaSession.cpp(235,26): warning C4267: '+=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\ServerMediaSession.cpp(274,7): warning C4267: '+=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  RTSPServerSupportingHTTPStreaming.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPServerSupportingHTTPStreaming.cpp(143,69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPServerSupportingHTTPStreaming.cpp(183,71): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPServerSupportingHTTPStreaming.cpp(183,43): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPServerSupportingHTTPStreaming.cpp(188,117): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPServerSupportingHTTPStreaming.cpp(188,50): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPServerSupportingHTTPStreaming.cpp(192,51): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPServerSupportingHTTPStreaming.cpp(192,43): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPServerSupportingHTTPStreaming.cpp(220,24): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPServerSupportingHTTPStreaming.cpp(237,65): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  RTSPServer.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPServer.cpp(295,20): warning C4244: 'initializing': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPServer.cpp(408,33): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPServer.cpp(434,26): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPServer.cpp(732,88): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPServer.cpp(789,33): warning C4456: declaration of 'clientSession' hides previous local declaration
+  C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPServer.cpp(654,36):
+  see declaration of 'clientSession'
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPServer.cpp(833,27): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPServer.cpp(856,67): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPServer.cpp(866,26): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPServer.cpp(1461,44): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPServer.cpp(1461,36): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPServer.cpp(1544,24): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPServer.cpp(1605,27): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPServer.cpp(1682,28): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPServer.cpp(1703,25): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  RTSPCommon.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPCommon.cpp(253,43): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPCommon.cpp(253,35): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPCommon.cpp(306,32): warning C4100: 'socketNum': unreferenced formal parameter
+  RTSPClient.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(143,29): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(216,23): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(223,23): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(287,49): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(287,29): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(291,34): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(320,5): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(442,28): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(453,39): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(458,71): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(458,34): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(572,28): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(576,40): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(634,30): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(679,28): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(693,28): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(754,22): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(782,41): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(787,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(789,49): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(789,32): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(869,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(1077,24): warning C4457: declaration of 'subsession' hides function parameter
+  C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(1064,80):
+  see declaration of 'subsession'
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(1133,33): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(1147,24): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(1252,24): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(1272,70): warning C4100: 'responseString': unreferenced formal parameter
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(1555,27): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(1582,80): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+  RTPSource.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTPSource.cpp(146,20): warning C4312: 'type cast': conversion from 'long' to 'const char *' of greater size
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTPSource.cpp(177,46): warning C4312: 'type cast': conversion from 'long' to 'const char *' of greater size
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTPSource.cpp(182,15): warning C4312: 'type cast': conversion from 'long' to 'const char *' of greater size
+  RTPSink.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTPSink.cpp(134,28): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTPSink.cpp(199,20): warning C4312: 'type cast': conversion from 'long' to 'const char *' of greater size
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTPSink.cpp(223,49): warning C4312: 'type cast': conversion from 'long' to 'const char *' of greater size
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTPSink.cpp(228,15): warning C4312: 'type cast': conversion from 'long' to 'const char *' of greater size
+  RTPInterface.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTPInterface.cpp(82,21): warning C4312: 'type cast': conversion from 'long' to 'const char *' of greater size
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTPInterface.cpp(86,16): warning C4312: 'type cast': conversion from 'long' to 'const char *' of greater size
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTPInterface.cpp(93,21): warning C4312: 'type cast': conversion from 'long' to 'const char *' of greater size
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTPInterface.cpp(244,25): warning C4244: '-=': conversion from 'unsigned int' to 'unsigned short', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTPInterface.cpp(364,29): warning C4312: 'type cast': conversion from 'long' to 'const char *' of greater size
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTPInterface.cpp(378,27): warning C4312: 'type cast': conversion from 'long' to 'const char *' of greater size
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTPInterface.cpp(387,32): warning C4312: 'type cast': conversion from 'long' to 'const char *' of greater size
+  RTCP.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTCP.cpp(39,27): warning C4312: 'type cast': conversion from 'long' to 'char *' of greater size
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTCP.cpp(50,17): warning C4312: 'type cast': conversion from 'long' to 'char *' of greater size
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTCP.cpp(50,36): warning C4312: 'type cast': conversion from 'long' to 'void *' of greater size
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTCP.cpp(56,41): warning C4312: 'type cast': conversion from 'long' to 'char *' of greater size
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTCP.cpp(269,47): warning C4245: 'argument': conversion from 'int' to 'netAddressBits', signed/unsigned mismatch
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTCP.cpp(277,73): warning C4245: 'argument': conversion from 'int' to 'netAddressBits', signed/unsigned mismatch
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTCP.cpp(279,52): warning C4245: 'argument': conversion from 'int' to 'netAddressBits', signed/unsigned mismatch
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTCP.cpp(505,68): warning C4245: 'argument': conversion from 'int' to 'netAddressBits', signed/unsigned mismatch
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTCP.cpp(932,19): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  QuickTimeGenericRTPSource.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\QuickTimeGenericRTPSource.cpp(134,27): warning C4244: 'initializing': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\QuickTimeGenericRTPSource.cpp(207,27): warning C4244: 'initializing': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+  QuickTimeFileSink.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(894,7): warning C4244: 'initializing': conversion from 'unsigned int' to 'unsigned short', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(931,27): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(934,40): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(977,46): warning C4244: 'argument': conversion from 'unsigned int' to 'unsigned short', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(982,20): warning C4244: 'initializing': conversion from 'unsigned int' to 'unsigned short', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(983,2): warning C4244: 'initializing': conversion from 'unsigned int' to 'const unsigned short', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(984,20): warning C4244: 'initializing': conversion from 'unsigned int' to 'unsigned short', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(985,2): warning C4244: 'initializing': conversion from 'unsigned int' to 'const unsigned short', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(1036,55): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(1193,34): warning C4244: 'argument': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(1194,15): warning C4244: 'argument': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(1194,29): warning C4244: 'argument': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(1224,24): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(1488,7): warning C4245: 'argument': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(1802,19): warning C4244: 'argument': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(1893,25): warning C4244: 'argument': conversion from 'unsigned int' to 'unsigned short', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(1900,25): warning C4244: 'argument': conversion from 'unsigned int' to 'unsigned short', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(2052,32): warning C4245: 'initializing': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(2122,22): warning C4456: declaration of 'chunk' hides previous local declaration
+  C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(2082,20):
+  see declaration of 'chunk'
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(2126,16): warning C4456: declaration of 'sampleSize' hides previous local declaration
+  C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(2102,12):
+  see declaration of 'sampleSize'
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(2183,30): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(2194,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\QuickTimeFileSink.cpp(2298,31): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  QCELPAudioRTPSource.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\QCELPAudioRTPSource.cpp(449,33): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\QCELPAudioRTPSource.cpp(461,26): warning C4244: 'initializing': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+  ProxyServerMediaSession.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\ProxyServerMediaSession.cpp(473,66): warning C4100: 'inputSource': unreferenced formal parameter
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\ProxyServerMediaSession.cpp(525,55): warning C4244: 'argument': conversion from 'unsigned int' to 'u_int8_t', possible loss of data
+  PassiveServerMediaSubsession.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\PassiveServerMediaSubsession.cpp(89,25): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\PassiveServerMediaSubsession.cpp(154,33): warning C4312: 'type cast': conversion from 'unsigned int' to 'const char *' of greater size
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\PassiveServerMediaSubsession.cpp(177,85): warning C4312: 'type cast': conversion from 'unsigned int' to 'const char *' of greater size
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\PassiveServerMediaSubsession.cpp(187,83): warning C4312: 'type cast': conversion from 'unsigned int' to 'const char *' of greater size
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\PassiveServerMediaSubsession.cpp(193,38): warning C4312: 'type cast': conversion from 'unsigned int' to 'const char *' of greater size
+  OutputFile.cpp
+  OnDemandServerMediaSubsession.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\OnDemandServerMediaSubsession.cpp(63,34): warning C4244: 'initializing': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\OnDemandServerMediaSubsession.cpp(131,24): warning C4456: declaration of 'serverPortNum' hides previous local declaration
+  C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\OnDemandServerMediaSubsession.cpp(112,17):
+  see declaration of 'serverPortNum'
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\OnDemandServerMediaSubsession.cpp(152,36): warning C4244: 'initializing': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\OnDemandServerMediaSubsession.cpp(184,31): warning C4312: 'type cast': conversion from 'unsigned int' to 'const char *' of greater size
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\OnDemandServerMediaSubsession.cpp(197,54): warning C4312: 'type cast': conversion from 'unsigned int' to 'const char *' of greater size
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\OnDemandServerMediaSubsession.cpp(268,54): warning C4312: 'type cast': conversion from 'unsigned int' to 'const char *' of greater size
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\OnDemandServerMediaSubsession.cpp(270,36): warning C4312: 'type cast': conversion from 'unsigned int' to 'const char *' of greater size
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\OnDemandServerMediaSubsession.cpp(296,71): warning C4100: 'numBytes': unreferenced formal parameter
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\OnDemandServerMediaSubsession.cpp(336,23): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  MultiFramedRTPSource.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MultiFramedRTPSource.cpp(437,41): warning C4244: '+=': conversion from '__int64' to 'unsigned int', possible loss of data
+  MultiFramedRTPSink.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MultiFramedRTPSink.cpp(139,40): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+  Generating Code...
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTPInterface.cpp(460): warning C4701: potentially uninitialized local variable 'c' used
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\RTSPClient.cpp(941): warning C4701: potentially uninitialized local variable 'multicastPortNumRTP' used
+  Compiling...
+  MPEGVideoStreamParser.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\StreamParser.hh(77,31): warning C4100: 'numBytes': unreferenced formal parameter
+  (compiling source file '../live555-2013.02.11/liveMedia/MPEGVideoStreamParser.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEGVideoStreamParser.hh(70,37): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+  (compiling source file '../live555-2013.02.11/liveMedia/MPEGVideoStreamParser.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEGVideoStreamParser.hh(70,56): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+  (compiling source file '../live555-2013.02.11/liveMedia/MPEGVideoStreamParser.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEGVideoStreamParser.hh(70,70): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+  (compiling source file '../live555-2013.02.11/liveMedia/MPEGVideoStreamParser.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEGVideoStreamParser.hh(114,40): warning C4244: 'return': conversion from '__int64' to 'unsigned int', possible loss of data
+  (compiling source file '../live555-2013.02.11/liveMedia/MPEGVideoStreamParser.cpp')
+  
+  MPEGVideoStreamFramer.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\StreamParser.hh(77,31): warning C4100: 'numBytes': unreferenced formal parameter
+  (compiling source file '../live555-2013.02.11/liveMedia/MPEGVideoStreamFramer.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEGVideoStreamParser.hh(70,37): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+  (compiling source file '../live555-2013.02.11/liveMedia/MPEGVideoStreamFramer.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEGVideoStreamParser.hh(70,56): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+  (compiling source file '../live555-2013.02.11/liveMedia/MPEGVideoStreamFramer.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEGVideoStreamParser.hh(70,70): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+  (compiling source file '../live555-2013.02.11/liveMedia/MPEGVideoStreamFramer.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEGVideoStreamParser.hh(114,40): warning C4244: 'return': conversion from '__int64' to 'unsigned int', possible loss of data
+  (compiling source file '../live555-2013.02.11/liveMedia/MPEGVideoStreamFramer.cpp')
+  
+  MPEG4VideoStreamFramer.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\StreamParser.hh(77,31): warning C4100: 'numBytes': unreferenced formal parameter
+  (compiling source file '../live555-2013.02.11/liveMedia/MPEG4VideoStreamFramer.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEGVideoStreamParser.hh(70,37): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+  (compiling source file '../live555-2013.02.11/liveMedia/MPEG4VideoStreamFramer.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEGVideoStreamParser.hh(70,56): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+  (compiling source file '../live555-2013.02.11/liveMedia/MPEG4VideoStreamFramer.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEGVideoStreamParser.hh(70,70): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+  (compiling source file '../live555-2013.02.11/liveMedia/MPEG4VideoStreamFramer.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEGVideoStreamParser.hh(114,40): warning C4244: 'return': conversion from '__int64' to 'unsigned int', possible loss of data
+  (compiling source file '../live555-2013.02.11/liveMedia/MPEG4VideoStreamFramer.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG4VideoStreamFramer.cpp(648,17): warning C4456: declaration of 'next4Bytes' hides previous local declaration
+  C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG4VideoStreamFramer.cpp(531,13):
+  see declaration of 'next4Bytes'
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG4VideoStreamFramer.cpp(655,12): warning C4312: 'type cast': conversion from 'u_int32_t' to 'void *' of greater size
+  MPEG4VideoStreamDiscreteFramer.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG4VideoStreamDiscreteFramer.cpp(137,18): warning C4456: declaration of 'i' hides previous local declaration
+  C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG4VideoStreamDiscreteFramer.cpp(72,14):
+  see declaration of 'i'
+  
+  MPEG4VideoFileServerMediaSubsession.cpp
+  MPEG4LATMAudioRTPSource.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG4LATMAudioRTPSource.cpp(202,22): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG4LATMAudioRTPSource.cpp(247,39): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  MPEG4LATMAudioRTPSink.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG4LATMAudioRTPSink.cpp(38,24): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  MPEG4GenericRTPSource.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG4GenericRTPSource.cpp(87,29): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  MPEG4GenericRTPSink.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG4GenericRTPSink.cpp(45,52): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG4GenericRTPSink.cpp(59,24): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG4GenericRTPSink.cpp(114,30): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+  MPEG4ESVideoRTPSource.cpp
+  MPEG4ESVideoRTPSink.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG4ESVideoRTPSink.cpp(124,24): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  MPEG2TransportUDPServerMediaSubsession.cpp
+  MPEG2TransportStreamTrickModeFilter.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamTrickModeFilter.cpp(237,22): warning C4100: 'presentationTime': unreferenced formal parameter
+  MPEG2TransportStreamMultiplexor.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamMultiplexor.cpp(198,2): warning C4244: 'initializing': conversion from 'unsigned int' to 'u_int8_t', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamMultiplexor.cpp(212,29): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamMultiplexor.cpp(213,29): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamMultiplexor.cpp(214,16): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamMultiplexor.cpp(256,49): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamMultiplexor.cpp(257,33): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamMultiplexor.cpp(257,51): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamMultiplexor.cpp(257,65): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamMultiplexor.cpp(297,16): warning C4244: '=': conversion from 'int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamMultiplexor.cpp(302,27): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamMultiplexor.cpp(303,24): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamMultiplexor.cpp(306,49): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamMultiplexor.cpp(307,33): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamMultiplexor.cpp(307,51): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamMultiplexor.cpp(307,65): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+  MPEG2TransportStreamIndexFile.cpp
+  MPEG2TransportStreamFromPESSource.cpp
+  MPEG2TransportStreamFromESSource.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamFromESSource.cpp(205,38): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamFromESSource.cpp(206,21): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamFromESSource.cpp(210,40): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamFromESSource.cpp(211,46): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamFromESSource.cpp(212,40): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamFromESSource.cpp(213,45): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+  MPEG2TransportStreamFramer.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamFramer.cpp(233,63): warning C4312: 'type cast': conversion from 'unsigned int' to 'char *' of greater size
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG2TransportStreamFramer.cpp(238,26): warning C4312: 'type cast': conversion from 'unsigned int' to 'char *' of greater size
+  MPEG2TransportFileServerMediaSubsession.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG2TransportFileServerMediaSubsession.cpp(185,36): warning C4312: 'type cast': conversion from 'unsigned int' to 'const char *' of greater size
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG2TransportFileServerMediaSubsession.cpp(219,66): warning C4312: 'type cast': conversion from 'unsigned int' to 'const char *' of greater size
+  MPEG2IndexFromTransportStream.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG2IndexFromTransportStream.cpp(117,27): warning C4245: 'initializing': conversion from 'int' to 'u_int8_t', signed/unsigned mismatch
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG2IndexFromTransportStream.cpp(259,46): warning C4244: 'argument': conversion from 'unsigned int' to 'u_int8_t', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG2IndexFromTransportStream.cpp(177,17): warning C4100: 'durationInMicroseconds': unreferenced formal parameter
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG2IndexFromTransportStream.cpp(176,23): warning C4100: 'presentationTime': unreferenced formal parameter
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG2IndexFromTransportStream.cpp(175,17): warning C4100: 'numTruncatedBytes': unreferenced formal parameter
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG2IndexFromTransportStream.cpp(532,26): warning C4244: 'initializing': conversion from 'unsigned int' to 'u_int8_t', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG2IndexFromTransportStream.cpp(533,24): warning C4244: 'initializing': conversion from 'unsigned int' to 'u_int8_t', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG2IndexFromTransportStream.cpp(534,19): warning C4244: '=': conversion from 'unsigned int' to 'u_int8_t', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG2IndexFromTransportStream.cpp(576,32): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG2IndexFromTransportStream.cpp(581,28): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+  Generating Code...
+  Compiling...
+  MPEG1or2VideoStreamFramer.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\StreamParser.hh(77,31): warning C4100: 'numBytes': unreferenced formal parameter
+  (compiling source file '../live555-2013.02.11/liveMedia/MPEG1or2VideoStreamFramer.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEGVideoStreamParser.hh(70,37): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+  (compiling source file '../live555-2013.02.11/liveMedia/MPEG1or2VideoStreamFramer.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEGVideoStreamParser.hh(70,56): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+  (compiling source file '../live555-2013.02.11/liveMedia/MPEG1or2VideoStreamFramer.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEGVideoStreamParser.hh(70,70): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+  (compiling source file '../live555-2013.02.11/liveMedia/MPEG1or2VideoStreamFramer.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEGVideoStreamParser.hh(114,40): warning C4244: 'return': conversion from '__int64' to 'unsigned int', possible loss of data
+  (compiling source file '../live555-2013.02.11/liveMedia/MPEG1or2VideoStreamFramer.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG1or2VideoStreamFramer.cpp(205,26): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG1or2VideoStreamFramer.cpp(379,37): warning C4244: 'initializing': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG1or2VideoStreamFramer.cpp(463,11): warning C4312: 'type cast': conversion from 'unsigned int' to 'void *' of greater size
+  MPEG1or2VideoStreamDiscreteFramer.cpp
+  MPEG1or2VideoRTPSource.cpp
+  MPEG1or2VideoRTPSink.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG1or2VideoRTPSink.cpp(97,66): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG1or2VideoRTPSink.cpp(124,11): warning C4312: 'type cast': conversion from 'unsigned int' to 'void *' of greater size
+  MPEG1or2VideoFileServerMediaSubsession.cpp
+  MPEG1or2FileServerDemux.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG1or2FileServerDemux.cpp(39,72): warning C4245: 'initializing': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+  MPEG1or2DemuxedServerMediaSubsession.cpp
+  MPEG1or2DemuxedElementaryStream.cpp
+  MPEG1or2Demux.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\StreamParser.hh(77,31): warning C4100: 'numBytes': unreferenced formal parameter
+  (compiling source file '../live555-2013.02.11/liveMedia/MPEG1or2Demux.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG1or2Demux.cpp(459,40): warning C4244: 'initializing': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG1or2Demux.cpp(695,26): warning C4244: '-=': conversion from 'unsigned int' to 'unsigned short', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEG1or2Demux.cpp(722,28): warning C4244: '-=': conversion from 'unsigned int' to 'unsigned short', possible loss of data
+  MPEG1or2AudioStreamFramer.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\StreamParser.hh(77,31): warning C4100: 'numBytes': unreferenced formal parameter
+  (compiling source file '../live555-2013.02.11/liveMedia/MPEG1or2AudioStreamFramer.cpp')
+  
+  MPEG1or2AudioRTPSource.cpp
+  MPEG1or2AudioRTPSink.cpp
+  MP3Transcoder.cpp
+  MP3StreamState.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MP3StreamState.cpp(206,32): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MP3StreamState.cpp(411,17): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MP3StreamState.cpp(409,42): warning C4996: 'fileno': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fileno. See online help for details.
+  MP3InternalsHuffmanTable.cpp
+  MP3InternalsHuffman.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MP3InternalsHuffman.cpp(505,16): warning C4459: declaration of 'slen' hides global declaration
+  C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MP3InternalsHuffman.cpp(434,28):
+  see declaration of 'slen'
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MP3InternalsHuffman.cpp(608,16): warning C4245: 'initializing': conversion from 'int' to 'unsigned long', signed/unsigned mismatch
+  MP3Internals.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MP3Internals.cpp(199,65): warning C4244: 'argument': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MP3Internals.cpp(347,21): warning C4100: 'ms_stereo': unreferenced formal parameter
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MP3Internals.cpp(430,21): warning C4100: 'ms_stereo': unreferenced formal parameter
+  MP3FileSource.cpp
+  MP3AudioMatroskaFileServerMediaSubsession.cpp
+  MP3AudioFileServerMediaSubsession.cpp
+  Generating Code...
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MP3StreamState.cpp(307): warning C4702: unreachable code
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MP3StreamState.cpp(310): warning C4702: unreachable code
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MP3StreamState.cpp(314): warning C4702: unreachable code
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MP3StreamState.cpp(320): warning C4702: unreachable code
+  Compiling...
+  MP3ADUTranscoder.cpp
+  MP3ADURTPSource.cpp
+  MP3ADURTPSink.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MP3ADURTPSink.cpp(93,28): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+  MP3ADUinterleaving.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MP3ADUinterleaving.cpp(36,36): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MP3ADUinterleaving.cpp(142,69): warning C4244: 'argument': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MP3ADUinterleaving.cpp(157,63): warning C4244: 'argument': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MP3ADUinterleaving.cpp(175,12): warning C4244: 'argument': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MP3ADUinterleaving.cpp(175,6): warning C4244: 'argument': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MP3ADUinterleaving.cpp(221,16): warning C4245: 'initializing': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MP3ADUinterleaving.cpp(221,34): warning C4245: 'initializing': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+  MP3ADUdescriptor.cpp
+  MP3ADU.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MP3ADU.cpp(471,11): warning C4456: declaration of 'bytesToZero' hides previous local declaration
+  C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MP3ADU.cpp(442,14):
+  see declaration of 'bytesToZero'
+  
+  MediaSource.cpp
+  MediaSink.cpp
+  MediaSession.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MediaSession.cpp(197,37): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MediaSession.cpp(719,59): warning C4312: 'type cast': conversion from 'unsigned int' to 'const char *' of greater size
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MediaSession.cpp(741,59): warning C4312: 'type cast': conversion from 'unsigned int' to 'const char *' of greater size
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MediaSession.cpp(953,57): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MediaSession.cpp(1023,57): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+  Media.cpp
+  MatroskaFileServerDemux.cpp
+  MatroskaFileParser.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\StreamParser.hh(77,31): warning C4100: 'numBytes': unreferenced formal parameter
+  (compiling source file '../live555-2013.02.11/liveMedia/MatroskaFileParser.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MatroskaFileParser.cpp(821,13): warning C4456: declaration of 'c' hides previous local declaration
+  C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MatroskaFileParser.cpp(766,14):
+  see declaration of 'c'
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MatroskaFileParser.cpp(1135,21): warning C4127: conditional expression is constant
+  MatroskaFile.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\StreamParser.hh(77,31): warning C4100: 'numBytes': unreferenced formal parameter
+  (compiling source file '../live555-2013.02.11/liveMedia/MatroskaFile.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MatroskaFile.cpp(232,70): warning C4312: 'type cast': conversion from 'unsigned int' to 'const char *' of greater size
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MatroskaFile.cpp(233,62): warning C4312: 'type cast': conversion from 'unsigned int' to 'const char *' of greater size
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MatroskaFile.cpp(238,41): warning C4312: 'type cast': conversion from 'unsigned int' to 'const char *' of greater size
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MatroskaFile.cpp(301,28): warning C4312: 'type cast': conversion from 'unsigned int' to 'const char *' of greater size
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MatroskaFile.cpp(306,61): warning C4312: 'type cast': conversion from 'unsigned int' to 'const char *' of greater size
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MatroskaFile.cpp(310,31): warning C4312: 'type cast': conversion from 'unsigned int' to 'const char *' of greater size
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MatroskaFile.cpp(392,22): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MatroskaFile.cpp(408,47): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MatroskaFile.cpp(413,25): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+  MatroskaDemuxedTrack.cpp
+  Locale.cpp
+  JPEGVideoSource.cpp
+  JPEGVideoRTPSource.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\JPEGVideoRTPSource.cpp(164,21): warning C4244: '=': conversion from 'int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\JPEGVideoRTPSource.cpp(165,28): warning C4244: '=': conversion from 'int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\JPEGVideoRTPSource.cpp(210,37): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\JPEGVideoRTPSource.cpp(217,14): warning C4456: declaration of 'tableSize' hides previous local declaration
+  C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\JPEGVideoRTPSource.cpp(208,12):
+  see declaration of 'tableSize'
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\JPEGVideoRTPSource.cpp(220,39): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\JPEGVideoRTPSource.cpp(309,23): warning C4244: '=': conversion from 'int' to 'unsigned char', possible loss of data
+  JPEGVideoRTPSink.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\JPEGVideoRTPSink.cpp(62,43): warning C4244: '=': conversion from 'unsigned int' to 'u_int8_t', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\JPEGVideoRTPSink.cpp(63,43): warning C4244: '=': conversion from 'unsigned int' to 'u_int8_t', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\JPEGVideoRTPSink.cpp(64,23): warning C4244: '=': conversion from 'unsigned int' to 'u_int8_t', possible loss of data
+  InputFile.cpp
+  H264VideoStreamFramer.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\StreamParser.hh(77,31): warning C4100: 'numBytes': unreferenced formal parameter
+  (compiling source file '../live555-2013.02.11/liveMedia/H264VideoStreamFramer.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEGVideoStreamParser.hh(70,37): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+  (compiling source file '../live555-2013.02.11/liveMedia/H264VideoStreamFramer.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEGVideoStreamParser.hh(70,56): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+  (compiling source file '../live555-2013.02.11/liveMedia/H264VideoStreamFramer.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEGVideoStreamParser.hh(70,70): warning C4244: '=': conversion from 'u_int32_t' to 'unsigned char', possible loss of data
+  (compiling source file '../live555-2013.02.11/liveMedia/H264VideoStreamFramer.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\MPEGVideoStreamParser.hh(114,40): warning C4244: 'return': conversion from '__int64' to 'unsigned int', possible loss of data
+  (compiling source file '../live555-2013.02.11/liveMedia/H264VideoStreamFramer.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\H264VideoStreamFramer.cpp(142,42): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\H264VideoStreamFramer.cpp(142,36): warning C4244: 'initializing': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\H264VideoStreamFramer.cpp(520,27): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\H264VideoStreamFramer.cpp(659,89): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\H264VideoStreamFramer.cpp(681,89): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+  Generating Code...
+  Compiling...
+  H264VideoStreamDiscreteFramer.cpp
+  H264VideoRTPSource.cpp
+  H264VideoRTPSink.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\H264VideoRTPSink.cpp(177,24): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  H264VideoMatroskaFileServerMediaSubsession.cpp
+  H264VideoFileSink.cpp
+  H264VideoFileServerMediaSubsession.cpp
+  H263plusVideoStreamParser.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\StreamParser.hh(77,31): warning C4100: 'numBytes': unreferenced formal parameter
+  (compiling source file '../live555-2013.02.11/liveMedia/H263plusVideoStreamParser.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\H263plusVideoStreamParser.cpp(200,23): warning C4477: 'fprintf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 2 has type '__int64'
+  C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\H263plusVideoStreamParser.cpp(200,23):
+  consider using '%llu' in the format string
+  C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\H263plusVideoStreamParser.cpp(200,23):
+  consider using '%Iu' in the format string
+  C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\H263plusVideoStreamParser.cpp(200,23):
+  consider using '%I64u' in the format string
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\H263plusVideoStreamParser.cpp(210,9): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\H263plusVideoStreamParser.cpp(385,21): warning C4244: 'return': conversion from 'int' to 'u_int8_t', possible loss of data
+  H263plusVideoStreamFramer.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\StreamParser.hh(77,31): warning C4100: 'numBytes': unreferenced formal parameter
+  (compiling source file '../live555-2013.02.11/liveMedia/H263plusVideoStreamFramer.cpp')
+  
+  H263plusVideoRTPSource.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\H263plusVideoRTPSource.cpp(74,52): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\H263plusVideoRTPSource.cpp(82,56): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+  H263plusVideoRTPSink.cpp
+  H263plusVideoFileServerMediaSubsession.cpp
+  H261VideoRTPSource.cpp
+  GSMAudioRTPSink.cpp
+  FramedSource.cpp
+  FramedFilter.cpp
+  FramedFileSource.cpp
+  FileSink.cpp
+  FileServerMediaSubsession.cpp
+  EBMLNumber.cpp
+  DVVideoStreamFramer.cpp
+  Generating Code...
+  Compiling...
+  DVVideoRTPSource.cpp
+  DVVideoRTPSink.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\DVVideoRTPSink.cpp(46,54): warning C4100: 'fragmentationOffset': unreferenced formal parameter
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\DVVideoRTPSink.cpp(87,27): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  DVVideoFileServerMediaSubsession.cpp
+  DigestAuthentication.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\DigestAuthentication.cpp(103,29): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\DigestAuthentication.cpp(102,31): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\DigestAuthentication.cpp(110,47): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\DigestAuthentication.cpp(110,29): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\DigestAuthentication.cpp(117,36): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\DigestAuthentication.cpp(118,5): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+  DeviceSource.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\DeviceSource.cpp(125,33): warning C4312: 'type cast': conversion from 'unsigned int' to 'u_int8_t *' of greater size
+  DarwinInjector.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\DarwinInjector.cpp(100,31): warning C4267: '+=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\DarwinInjector.cpp(133,7): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\DarwinInjector.cpp(165,21): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\DarwinInjector.cpp(238,79): warning C4244: 'argument': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\DarwinInjector.cpp(241,25): warning C4244: 'argument': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\DarwinInjector.cpp(124,8): warning C4100: 'timeout': unreferenced formal parameter
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\DarwinInjector.cpp(307,28): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\DarwinInjector.cpp(319,27): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\DarwinInjector.cpp(322,27): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\DarwinInjector.cpp(329,23): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  ByteStreamMultiFileSource.cpp
+  ByteStreamMemoryBufferSource.cpp
+  ByteStreamFileSource.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\ByteStreamFileSource.cpp(135,21): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  BitVector.cpp
+  BasicUDPSource.cpp
+  BasicUDPSink.cpp
+  Base64.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\Base64.cpp(29,58): warning C4310: cast truncates constant value
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\Base64.cpp(32,57): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\Base64.cpp(33,58): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\Base64.cpp(34,58): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\Base64.cpp(50,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\Base64.cpp(50,18): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+  AVIFileSink.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\AVIFileSink.cpp(560,11): warning C4244: 'argument': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\AVIFileSink.cpp(560,30): warning C4244: 'argument': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\AVIFileSink.cpp(561,15): warning C4244: 'argument': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\AVIFileSink.cpp(735,27): warning C4244: 'argument': conversion from 'unsigned int' to 'unsigned short', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\AVIFileSink.cpp(738,42): warning C4244: 'argument': conversion from 'unsigned int' to 'unsigned short', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\AVIFileSink.cpp(740,27): warning C4244: 'argument': conversion from 'unsigned int' to 'unsigned short', possible loss of data
+  AudioRTPSink.cpp
+  AudioInputDevice.cpp
+  AMRAudioSource.cpp
+  AMRAudioRTPSource.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\AMRAudioRTPSource.cpp(342,41): warning C4100: 'framePtr': unreferenced formal parameter
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\AMRAudioRTPSource.cpp(563,59): warning C4244: 'argument': conversion from 'unsigned int' to 'u_int16_t', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\AMRAudioRTPSource.cpp(598,33): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\AMRAudioRTPSource.cpp(613,26): warning C4244: 'initializing': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\AMRAudioRTPSource.cpp(705,29): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\AMRAudioRTPSource.cpp(710,31): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+  AMRAudioRTPSink.cpp
+  AMRAudioFileSource.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\AMRAudioFileSource.cpp(156,21): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Compiling...
+  AMRAudioFileSink.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\AMRAudioFileSink.cpp(79,27): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\AMRAudioFileSink.cpp(85,57): warning C4244: '=': conversion from 'unsigned int' to 'char', possible loss of data
+  AMRAudioFileServerMediaSubsession.cpp
+  ADTSAudioFileSource.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\ADTSAudioFileSource.cpp(150,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ADTSAudioFileServerMediaSubsession.cpp
+  AC3AudioStreamFramer.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\StreamParser.hh(77,31): warning C4100: 'numBytes': unreferenced formal parameter
+  (compiling source file '../live555-2013.02.11/liveMedia/AC3AudioStreamFramer.cpp')
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\AC3AudioStreamFramer.cpp(289,33): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\AC3AudioStreamFramer.cpp(290,33): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\AC3AudioStreamFramer.cpp(291,27): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+  AC3AudioRTPSource.cpp
+  AC3AudioRTPSink.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\AC3AudioRTPSink.cpp(73,68): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+  AC3AudioMatroskaFileServerMediaSubsession.cpp
+  AC3AudioFileServerMediaSubsession.cpp
+  AACAudioMatroskaFileServerMediaSubsession.cpp
+  NetInterface.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\groupsock\NetInterface.cpp(131,37): warning C4312: 'type cast': conversion from 'long' to 'char *' of greater size
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\groupsock\NetInterface.cpp(136,19): warning C4312: 'type cast': conversion from 'long' to 'char *' of greater size
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\groupsock\NetInterface.cpp(148,26): warning C4312: 'type cast': conversion from 'long' to 'char *' of greater size
+  NetAddress.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\groupsock\NetAddress.cpp(108,10): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  IOHandlers.cpp
+  GroupsockHelper.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\groupsock\GroupsockHelper.cpp(83,16): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\groupsock\GroupsockHelper.cpp(157,20): warning C4456: declaration of 'addr' hides previous local declaration
+  C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\groupsock\GroupsockHelper.cpp(135,18):
+  see declaration of 'addr'
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\groupsock\GroupsockHelper.cpp(736,22): warning C4244: '=': conversion from 'time_t' to 'long', possible loss of data
+  Groupsock.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\groupsock\Groupsock.cpp(262,22): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\groupsock\Groupsock.cpp(262,22): warning C4313: 'fprintf': '%d' in format string conflicts with argument 1 of type 'char *'
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\groupsock\Groupsock.cpp(262,22): warning C4473: 'fprintf' : not enough arguments passed for format string
+  C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\groupsock\Groupsock.cpp(262,22):
+  placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\groupsock\Groupsock.cpp(262,22):
+  the missing variadic argument 2 is required by format string '%s'
+  
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\groupsock\Groupsock.cpp(488,49): warning C4312: 'type cast': conversion from 'long' to 'char *' of greater size
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\groupsock\Groupsock.cpp(490,21): warning C4312: 'type cast': conversion from 'long' to 'char *' of greater size
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\groupsock\Groupsock.cpp(518,26): warning C4312: 'type cast': conversion from 'long' to 'char *' of greater size
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\groupsock\Groupsock.cpp(529,18): warning C4312: 'type cast': conversion from 'long' to 'char *' of greater size
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\groupsock\Groupsock.cpp(542,40): warning C4312: 'type cast': conversion from 'long' to 'char *' of greater size
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\groupsock\Groupsock.cpp(556,60): warning C4245: 'argument': conversion from 'int' to 'netAddressBits', signed/unsigned mismatch
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\groupsock\Groupsock.cpp(558,47): warning C4245: 'argument': conversion from 'int' to 'netAddressBits', signed/unsigned mismatch
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\groupsock\Groupsock.cpp(589,53): warning C4245: 'argument': conversion from 'int' to 'netAddressBits', signed/unsigned mismatch
+  GroupEId.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\groupsock\GroupEId.cpp(65,21): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\groupsock\GroupEId.cpp(74,30): warning C4245: '=': conversion from 'int' to 'ULONG', signed/unsigned mismatch
+  DelayQueue.cpp
+  BasicUsageEnvironment0.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\BasicUsageEnvironment\BasicUsageEnvironment0.cpp(74,22): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  BasicUsageEnvironment.cpp
+  BasicTaskScheduler0.cpp
+  Generating Code...
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\groupsock\Groupsock.cpp(258): warning C4706: assignment within conditional expression
+  Compiling...
+  BasicTaskScheduler.cpp
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\BasicUsageEnvironment\BasicTaskScheduler.cpp(92,26): warning C4244: 'initializing': conversion from 'SOCKET' to 'int', possible loss of data
+  BasicHashTable.cpp
+  Generating Code...
+cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  rtcp_from_spec.c
+  our_md5hl.c
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\liveMedia\our_md5hl.c(52,17): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  our_md5.c
+  inet.c
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\groupsock\inet.c(16,12): warning C4131: 'our_inet_addr': uses old-style declarator
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\groupsock\inet.c(18,9): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\groupsock\inet.c(269,15): warning C4131: 'our_initstate': uses old-style declarator
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\groupsock\inet.c(278,42): warning C4244: '=': conversion from '__int64' to 'long', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\groupsock\inet.c(313,40): warning C4244: '=': conversion from '__int64' to 'long', possible loss of data
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\groupsock\inet.c(334,7): warning C4131: 'our_setstate': uses old-style declarator
+C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\groupsock\inet.c(344,42): warning C4244: '=': conversion from '__int64' to 'long', possible loss of data
+  Generating Code...
+  live555.vcxproj -> C:\Users\FastFalcon\source\repos\ONVIF-Device-Manager\libs\live555-2013.02.11\bin\x64\Debug\live555.exe

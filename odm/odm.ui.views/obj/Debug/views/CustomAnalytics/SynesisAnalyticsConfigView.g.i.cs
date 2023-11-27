@@ -9,7 +9,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-using Microsoft.Windows.Controls;
 using System;
 using System.Diagnostics;
 using System.Windows;
@@ -30,8 +29,6 @@ using System.Windows.Media.TextFormatting;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Windows.Shell;
-using odm.ui.controls;
-using odm.ui.controls.GraphEditor;
 using odm.ui.views.CustomAnalytics;
 
 
