@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
@@ -10,7 +10,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>odm.ui</RootNamespace>
     <AssemblyName>odm.ui.views</AssemblyName>
-    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Utf8Output>true</Utf8Output>
     <ExpressionBlendVersion>4.0.20525.0</ExpressionBlendVersion>
@@ -1037,10 +1037,6 @@
     <ProjectReference Include="..\odm.infra\odm.infra.fsproj">
       <Project>{A13DCAE1-F908-431B-94BA-9CCE4C11D496}</Project>
       <Name>odm.infra</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\odm.localization\odm.localization.csproj">
-      <Project>{88A8B3A8-7758-4E5A-8DA8-692BAC98B07B}</Project>
-      <Name>odm.localization</Name>
     </ProjectReference>
     <ProjectReference Include="..\..\utils\utils.bindings\utils.bindings.csproj">
       <Project>{161F40E9-5DB5-4AAC-93E3-20533C8EC463}</Project>

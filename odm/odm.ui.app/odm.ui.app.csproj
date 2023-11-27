@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
@@ -10,7 +10,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>odm.ui</RootNamespace>
     <AssemblyName>odm</AssemblyName>
-    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <TargetFrameworkProfile>
     </TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
@@ -62,6 +62,18 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel Condition="'$(Configuration)' == 'Debug'">4</WarningLevel>
     <WarningLevel Condition="'$(Configuration)' == 'Release'">3</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <Prefer32Bit>true</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="FSharp.Core">
@@ -173,14 +185,6 @@
     <ProjectReference Include="..\..\utils\utils.fsharp\utils.fsharp.fsproj">
       <Project>{04196C86-66F6-4A9C-BE0B-90AA5353B1C6}</Project>
       <Name>utils.fsharp</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\odm.extensibility\odm.extensibility.csproj">
-      <Project>{1ADC989A-D944-48FB-A371-25D4453AF25E}</Project>
-      <Name>odm.extensibility</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\odm.localization\odm.localization.csproj">
-      <Project>{88A8B3A8-7758-4E5A-8DA8-692BAC98B07B}</Project>
-      <Name>odm.localization</Name>
     </ProjectReference>
     <ProjectReference Include="..\odm.ui.activities\odm.ui.activities.fsproj">
       <Project>{14E1A0F2-CA90-4C89-AF93-058A1DCED77B}</Project>
