@@ -39,8 +39,30 @@
     <Reference Include="Accessibility">
       <EmbedInteropTypes>True</EmbedInteropTypes>
     </Reference>
-    <Reference Include="FSharp.Core">
-      <Private>True</Private>
+    <Reference Include="FSharp.Core, Version=4.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\libsAdded\FSharp.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="odm.infra">
+      <HintPath>..\..\libsAdded\odm.infra.dll</HintPath>
+    </Reference>
+    <Reference Include="odm.onvif.extensions">
+      <HintPath>..\..\libsAdded\odm.onvif.extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="odm.player.net">
+      <HintPath>..\..\libsAdded\odm.player.net.dll</HintPath>
+    </Reference>
+    <Reference Include="odm.ui.activities">
+      <HintPath>..\..\libsAdded\odm.ui.activities.dll</HintPath>
+    </Reference>
+    <Reference Include="onvif.discovery">
+      <HintPath>..\..\libsAdded\onvif.discovery.dll</HintPath>
+    </Reference>
+    <Reference Include="onvif.session">
+      <HintPath>..\..\libsAdded\onvif.session.dll</HintPath>
+    </Reference>
+    <Reference Include="onvif.utils">
+      <HintPath>..\..\libsAdded\onvif.utils.dll</HintPath>
     </Reference>
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
@@ -53,6 +75,9 @@
     <Reference Include="System.Xaml" />
     <Reference Include="System.Xml" />
     <Reference Include="System.Xml.Linq" />
+    <Reference Include="utils.fsharp">
+      <HintPath>..\..\libsAdded\utils.fsharp.dll</HintPath>
+    </Reference>
     <Reference Include="WindowsBase" />
     <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.ServiceModel" />
@@ -1010,33 +1035,13 @@
       <Project>{72E591D6-8F83-4D8C-8F67-9C325E623234}</Project>
       <Name>WPFToolkit.Extended</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\onvif\onvif.discovery\onvif.discovery.fsproj">
-      <Project>{6AF1CA5F-AE7C-4041-A49C-F1112BFF27B7}</Project>
-      <Name>onvif.discovery</Name>
-    </ProjectReference>
     <ProjectReference Include="..\..\onvif\onvif.services\onvif.services.csproj">
       <Project>{3CB4F764-648F-4AA3-9E85-91992337D3EA}</Project>
       <Name>onvif.services</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\onvif\onvif.session\onvif.session.fsproj">
-      <Project>{902A3FF3-E9BD-443D-8FC1-69AA42B5F76B}</Project>
-      <Name>onvif.session</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\onvif\onvif.utils\onvif.utils.fsproj">
-      <Project>{55DED141-56C3-4DA9-BE07-03708D7A2275}</Project>
-      <Name>onvif.utils</Name>
-    </ProjectReference>
     <ProjectReference Include="..\..\utils\utils.async\utils.async.csproj">
       <Project>{ca45551a-6a4e-4e3d-af2e-e081f209bb14}</Project>
       <Name>utils.async</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\utils\utils.fsharp\utils.fsharp.fsproj">
-      <Project>{04196C86-66F6-4A9C-BE0B-90AA5353B1C6}</Project>
-      <Name>utils.fsharp</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\odm.infra\odm.infra.fsproj">
-      <Project>{A13DCAE1-F908-431B-94BA-9CCE4C11D496}</Project>
-      <Name>odm.infra</Name>
     </ProjectReference>
     <ProjectReference Include="..\odm.localization\odm.localization.csproj">
       <Project>{88A8B3A8-7758-4E5A-8DA8-692BAC98B07B}</Project>
@@ -1066,10 +1071,6 @@
       <Project>{C00B45E2-5ABA-4F7A-BD85-505594794AAE}</Project>
       <Name>utils.xml</Name>
     </ProjectReference>
-    <ProjectReference Include="..\odm.onvif.extensions\odm.onvif.extensions.fsproj">
-      <Project>{B900157A-8F66-4C82-BEF3-9BFA7E85DF9D}</Project>
-      <Name>odm.onvif.extensions</Name>
-    </ProjectReference>
     <ProjectReference Include="..\odm.player\odm.player.host\odm.player.host.csproj">
       <Project>{31A6319F-F5E4-4DA4-8258-76B8E3A09EA4}</Project>
       <Name>odm.player.host</Name>
@@ -1077,10 +1078,6 @@
     <ProjectReference Include="..\odm.player\odm.player.media\odm.player.media.csproj">
       <Project>{5EE86409-3EA7-482A-8702-6DCA0D3BC4B1}</Project>
       <Name>odm.player.media</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\odm.player\odm.player.net\odm.player.net.vcxproj">
-      <Project>{D3EEB24E-79A7-48B3-8D58-EDBABB68CF0A}</Project>
-      <Name>odm.player.net</Name>
     </ProjectReference>
     <ProjectReference Include="..\odm.plugins\synesis\synesis.csproj">
       <Project>{26D449A6-B607-4E7F-A605-9A3BAB803B8B}</Project>

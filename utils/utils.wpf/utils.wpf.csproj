@@ -35,6 +35,10 @@
     <DefineConstants Condition="'$(Configuration)' == 'Release'">TRACE;$(DefineConstants)</DefineConstants>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="FSharp.Core, Version=4.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\libsAdded\FSharp.Core.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -45,10 +49,10 @@
     <Reference Include="System.Xaml" />
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
-    <Reference Include="WindowsBase" />
-    <Reference Include="FSharp.Core">
-      <Private>True</Private>
+    <Reference Include="utils.fsharp">
+      <HintPath>..\..\libsAdded\utils.fsharp.dll</HintPath>
     </Reference>
+    <Reference Include="WindowsBase" />
     <Reference Include="System.Reactive.Core">
       <HintPath>..\..\packages\Rx-Core.2.0.20823\lib\$(Platform)\System.Reactive.Core.dll</HintPath>
     </Reference>
@@ -79,6 +83,10 @@
     <Compile Include="wpf.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\utils.async\utils.async.csproj">
+      <Project>{ca45551a-6a4e-4e3d-af2e-e081f209bb14}</Project>
+      <Name>utils.async</Name>
+    </ProjectReference>
     <ProjectReference Include="..\utils.common\utils.common.csproj">
       <Project>{2faa440a-87d3-41ab-9931-25ac306a25ba}</Project>
       <Name>utils.common</Name>
@@ -86,10 +94,6 @@
     <ProjectReference Include="..\utils.diagnostics\utils.diagnostics.csproj">
       <Project>{C89D83CA-C0FA-4573-A63E-F716DD628696}</Project>
       <Name>utils.diagnostics</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\utils.fsharp\utils.fsharp.fsproj">
-      <Project>{04196C86-66F6-4A9C-BE0B-90AA5353B1C6}</Project>
-      <Name>utils.fsharp</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

@@ -64,8 +64,9 @@
     <WarningLevel Condition="'$(Configuration)' == 'Release'">3</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="FSharp.Core">
-      <Private>True</Private>
+    <Reference Include="FSharp.Core, Version=4.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\libsAdded\FSharp.Core.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="Microsoft.Expression.Interactions">
@@ -88,6 +89,27 @@
     </Reference>
     <Reference Include="Microsoft.Practices.Unity.Configuration">
       <HintPath>..\..\packages\Unity.2.1.505.0\lib\NET35\Microsoft.Practices.Unity.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="odm.infra">
+      <HintPath>..\..\libsAdded\odm.infra.dll</HintPath>
+    </Reference>
+    <Reference Include="odm.onvif.extensions">
+      <HintPath>..\..\libsAdded\odm.onvif.extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="odm.player.net">
+      <HintPath>..\..\libsAdded\odm.player.net.dll</HintPath>
+    </Reference>
+    <Reference Include="odm.ui.activities">
+      <HintPath>..\..\libsAdded\odm.ui.activities.dll</HintPath>
+    </Reference>
+    <Reference Include="onvif.discovery">
+      <HintPath>..\..\libsAdded\onvif.discovery.dll</HintPath>
+    </Reference>
+    <Reference Include="onvif.session">
+      <HintPath>..\..\libsAdded\onvif.session.dll</HintPath>
+    </Reference>
+    <Reference Include="onvif.utils">
+      <HintPath>..\..\libsAdded\onvif.utils.dll</HintPath>
     </Reference>
     <Reference Include="PresentationFramework" />
     <Reference Include="PresentationFramework.Aero" />
@@ -137,15 +159,14 @@
     <Reference Include="System.Xml.Linq, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
+    <Reference Include="utils.fsharp">
+      <HintPath>..\..\libsAdded\utils.fsharp.dll</HintPath>
+    </Reference>
     <Reference Include="WindowsBase, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\odm.player\odm.player.net\odm.player.net.vcxproj">
-      <Project>{D3EEB24E-79A7-48B3-8D58-EDBABB68CF0A}</Project>
-      <Name>odm.player.net</Name>
-    </ProjectReference>
     <ProjectReference Include="..\..\libs\WPFToolkit.Extended-v1.5.0\WPFToolkit.Extended.csproj">
       <Project>{72E591D6-8F83-4D8C-8F67-9C325E623234}</Project>
       <Name>WPFToolkit.Extended</Name>
@@ -154,13 +175,9 @@
       <Project>{3CB4F764-648F-4AA3-9E85-91992337D3EA}</Project>
       <Name>onvif.services</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\onvif\onvif.session\onvif.session.fsproj">
-      <Project>{902A3FF3-E9BD-443D-8FC1-69AA42B5F76B}</Project>
-      <Name>onvif.session</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\onvif\onvif.utils\onvif.utils.fsproj">
-      <Project>{55DED141-56C3-4DA9-BE07-03708D7A2275}</Project>
-      <Name>onvif.utils</Name>
+    <ProjectReference Include="..\..\utils\utils.async\utils.async.csproj">
+      <Project>{ca45551a-6a4e-4e3d-af2e-e081f209bb14}</Project>
+      <Name>utils.async</Name>
     </ProjectReference>
     <ProjectReference Include="..\..\utils\utils.bootstrapping\utils.bootstrapping.csproj">
       <Project>{90b75c37-636e-40fd-9005-4fd885a83eb2}</Project>
@@ -170,10 +187,6 @@
       <Project>{2faa440a-87d3-41ab-9931-25ac306a25ba}</Project>
       <Name>utils.common</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\utils\utils.fsharp\utils.fsharp.fsproj">
-      <Project>{04196C86-66F6-4A9C-BE0B-90AA5353B1C6}</Project>
-      <Name>utils.fsharp</Name>
-    </ProjectReference>
     <ProjectReference Include="..\odm.extensibility\odm.extensibility.csproj">
       <Project>{1ADC989A-D944-48FB-A371-25D4453AF25E}</Project>
       <Name>odm.extensibility</Name>
@@ -182,9 +195,9 @@
       <Project>{88A8B3A8-7758-4E5A-8DA8-692BAC98B07B}</Project>
       <Name>odm.localization</Name>
     </ProjectReference>
-    <ProjectReference Include="..\odm.ui.activities\odm.ui.activities.fsproj">
-      <Project>{14E1A0F2-CA90-4C89-AF93-058A1DCED77B}</Project>
-      <Name>odm.ui.activities</Name>
+    <ProjectReference Include="..\odm.player\odm.player.media\odm.player.media.csproj">
+      <Project>{5ee86409-3ea7-482a-8702-6dca0d3bc4b1}</Project>
+      <Name>odm.player.media</Name>
     </ProjectReference>
     <ProjectReference Include="..\odm.ui.models\odm.ui.models.csproj">
       <Project>{312A926D-B6B9-4CE9-9A1E-A56142D28120}</Project>
